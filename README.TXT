@@ -10,7 +10,7 @@ AUTHORS: George Giurgiu
 USER INSTRUCTIONS:
   Console commands:
   add item_name doc_type_date nr_units (adds an item by name (one word), document type and/or date (ex. FF0000/22.03.2016), and nr. of units)
-  list (displays the list of items by index)
+  list (displays the list of items sorted by index)
   remove index_nr nr_units (removes nr. of units from the item at that index)
   update (updates into the app the list previously saved in E:\items)
   exit (exits the app)
