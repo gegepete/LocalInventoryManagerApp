@@ -1,8 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+-----------------------------------------------------
+Basic Java console app able to store items in a file.
+-----------------------------------------------------
 
 PROJECT TITLE: LocalInventoryManagerApp (LIM ver 1.0)
 PURPOSE OF PROJECT: Java skills testing
