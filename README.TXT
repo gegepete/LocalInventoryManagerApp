@@ -1,6 +1,6 @@
------------------------------------------------------
-Basic Java console app able to store items in a file.
------------------------------------------------------
+-------------------------------------------------------------
+Basic Java console app able to store items records in a file.
+-------------------------------------------------------------
 
 PROJECT TITLE: LocalInventoryManagerApp (LIM ver 1.0)
 PURPOSE OF PROJECT: Java skills testing
