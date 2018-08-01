@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=
+comment1.target=Inventory()
+comment2.params=
+comment2.target=Inventory\ getInstance()
+comment3.params=i
+comment3.target=void\ addItem(Item)
+comment4.params=items
+comment4.target=void\ updateItems(java.util.List)
+comment5.params=indexNr\ units
+comment5.target=void\ removeItem(int,\ int)
+comment6.params=
+comment6.target=void\ showItems()
+numComments=7
